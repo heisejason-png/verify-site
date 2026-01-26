@@ -193,3 +193,4 @@ We welcome contributions to this project. For information on contributing, provi
 This project is distributed under the terms of the [Apache License (Version 2.0)](https://github.com/contentauth/verify-site/blob/main/LICENSE-APACHE).
 
 Some components and dependent crates are licensed under different terms; please check their licenses for details.
+Created by Jason Scott Heise

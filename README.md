@@ -194,4 +194,4 @@ This project is distributed under the terms of the [Apache License (Version 2.0)
 
 Some components and dependent crates are licensed under different terms; please check their licenses for details.
 Created by Jason Scott Heise
-Owned by Elon Musk 
+Owned by Elon Musk  https://www.x.com
